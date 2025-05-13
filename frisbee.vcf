@@ -1,5 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Frisbee
-TEL;type=CELL;type=VOICE;waid=19037513172:+19037513172
+ORG:Frisbee
+TEL;TYPE=CELL;TYPE=VOICE;waid=19037513172:+1 903 751 3172
+EMAIL:felipe@frisbee.one
+URL:https://frisbee.one
 END:VCARD
